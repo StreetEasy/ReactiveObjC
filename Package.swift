@@ -11,7 +11,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "ReactiveObjC",
-                      url: "https://github.com/StreetEasy/ReactiveObjC/releases/download/v4.0.1/ReactiveObjC.xcframework.zip",
+                      url: "https://github.com/StreetEasy/ReactiveObjC/releases/download/4.0.1/ReactiveObjC.xcframework.zip",
                       checksum: "e9760a9e944d67a4979954e860410a54add43284cfceba5dc288c2223ed4c247")
     ]
 )
